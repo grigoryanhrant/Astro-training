@@ -1,27 +1,29 @@
 ---
-title: 'Моя первая запись в блоге'
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'My First Blog Post'
 pubDate: 2022-07-01
-description: 'Это первый пост моего нового Astro блога.'
-author: 'Ученик Astro'
+description: "This is the first post of my new Astro blog."
+author: "Astro Learner"
 image:
-    url: 'https://docs.astro.build/assets/full-logo-light.png'
-    alt: 'Полный логотип Astro.'
-tags: ["astro", "блогинг", "обучение на публике"]
+  url: "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
+  alt: "The Astro logo with the word One."
+tags: ["astro", "blogging", "learning in public"]
 ---
-# Моя первая запись в блоге
 
-Опубликовано: 01.07.2022
+# My First Blog Post
 
-Добро пожаловать в мой _новый блог_ об изучении астро! Здесь я буду рассказывать о своем учебном пути, пока я создаю новый сайт.
+Published on: 2022-07-01
 
-## Чего я добился
+Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
-1. **Установка Astro**: Сначала я создал новый проект Astro и настроил свои учетные записи в Интернете.
+## What I've accomplished
 
-2. **Создание страниц**: Затем я научился создавать страницы, создавая новые файлы `.astro` и помещая их в папку `src/pages/`.
+1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
 
-3. **Создание записей в блоге**: Это моя первая запись в блоге! Теперь у меня есть страницы Astro и посты в формате Markdown!
+2. **Making Pages**: I then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
 
-## Что дальше
+3. **Making Blog Posts**: This is my first blog post! I now have Astro pages and Markdown posts!
 
-Я завершу учебное пособие по Astro, а затем продолжу добавлять новые записи. Следите за обновлениями.
+## What's next
+
+I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
